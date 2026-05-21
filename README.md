@@ -1,17 +1,58 @@
-# FUTURE_CS_02
-FROM: security@chase-alerts.com (Spoofed)
-TO: customer@example.com
-SUBJECT: URGENT: Your Account Has Been Suspended
 
-Dear Customer,
+---
 
-We detected unusual activity on your account. 
-Your account has been temporarily suspended.
+## Phishing Classification System
 
-To restore access, click the link below and verify your identity:
-http://chase-verify.secure-login.com/verify
+| Level | Definition | User Action |
+|-------|------------|-------------|
+| 🟢 **SAFE** | Verified legitimate email from trusted source | No action needed |
+| 🟡 **SUSPICIOUS** | Unknown sender, minor red flags | Verify via different channel (call, official website) |
+| 🔴 **PHISHING** | Multiple red flags, fake domain, urgency | Report to IT, delete, DO NOT interact |
 
-Failure to verify within 24 hours will result in permanent closure.
+---
 
-Sincerely,
-Chase Security Team
+## User Awareness - DO's and DON'Ts
+
+| DO ✅ | DON'T ❌ |
+|-------|---------|
+| ✅ Hover over links before clicking | ❌ Click links in suspicious emails |
+| ✅ Check sender email address carefully | ❌ Download attachments from unknown senders |
+| ✅ Verify urgent requests by phone | ❌ Reply to suspicious emails |
+| ✅ Report phishing to IT/security team | ❌ Enter passwords on unknown websites |
+| ✅ Enable 2-Factor Authentication | ❌ Ignore security warnings |
+| ✅ Look for spelling/grammar errors | ❌ Panic and act immediately |
+
+---
+
+## Conclusion
+
+Phishing remains one of the most common cyber threats. User awareness is the first line of defense. This report provides:
+
+- ✅ Real phishing examples with red flags
+- ✅ Email header analysis techniques
+- ✅ Classification system (Safe/Suspicious/Phishing)
+- ✅ Actionable user awareness guidelines
+
+**Regular security training and phishing simulations are recommended to maintain user vigilance.**
+
+---
+
+## Final Report
+
+[View Phishing Detection & Awareness Report (Canva)](paste-your-canva-link-here)
+
+---
+
+## Screenshots
+
+| # | Screenshot | Description |
+|---|------------|-------------|
+| 1 | [Email 1 - Bank Phishing](screenshots/email1-bank-phishing.png) | Fake Chase account suspension email |
+| 2 | [Email 2 - Delivery Phishing](screenshots/email2-delivery-phishing.png) | Fake FedEx delivery failure email |
+| 3 | [Email 3 - Password Reset Phishing](screenshots/email3-password-phishing.png) | Fake Google password reset alert |
+
+---
+
+## Evidence Folder
+
+All screenshots and analysis materials are available in the `/screenshots` folder.
