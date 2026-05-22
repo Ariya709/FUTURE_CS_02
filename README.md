@@ -39,7 +39,7 @@ Phishing remains one of the most common cyber threats. User awareness is the fir
 
 ## Final Report
 
-[View Phishing Detection & Awareness Report (Canva)](paste-your-canva-link-here)
+[View Phishing Detection & Awareness Report (Canva)]((https://canva.link/coeq0xead88pile))
 
 ---
 
@@ -55,4 +55,4 @@ Phishing remains one of the most common cyber threats. User awareness is the fir
 
 ## Evidence Folder
 
-All screenshots and analysis materials are available in the `/screenshots` folder.
+All screenshots and analysis materials are available in the `[/screenshots](https://drive.google.com/drive/folders/18F6EdsEV9vMJuoA88CXMrvVPnzhFJyRC?usp=drive_link)` folder.
