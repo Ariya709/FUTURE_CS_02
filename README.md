@@ -47,9 +47,9 @@ Phishing remains one of the most common cyber threats. User awareness is the fir
 
 | # | Screenshot | Description |
 |---|------------|-------------|
-| 1 | [Email 1 - Bank Phishing](Email 1.png) | Fake Chase account suspension email |
-| 2 | [Email 2 - Delivery Phishing](screenshots/email2-delivery-phishing.png) | Fake FedEx delivery failure email |
-| 3 | [Email 3 - Password Reset Phishing](screenshots/email3-password-phishing.png) | Fake Google password reset alert |
+| 1 | [Email 1 - Bank Phishing](screenshots/Email1.png) | Fake Chase account suspension email |
+| 2 | [Email 2 - Delivery Phishing](screenshots/Email2.png) | Fake FedEx delivery failure email |
+| 3 | [Email 3 - Password Reset Phishing](screenshots/Email3.png) | Fake Google password reset alert |
 
 ---
 
