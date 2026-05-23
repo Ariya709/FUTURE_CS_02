@@ -55,4 +55,4 @@ Phishing remains one of the most common cyber threats. User awareness is the fir
 
 ## Evidence Folder
 
-All screenshots and analysis materials are available in the `[/screenshots folder](https://github.com/Ariya709/FUTURE_CS_02/tree/main/screenshots)` folder.
+All screenshots and analysis materials are available in the `[https://github.com/Ariya709/FUTURE_CS_02/tree/main/Evidence%20Folder%202]` folder.
